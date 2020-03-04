@@ -32,7 +32,7 @@ Search for a given on Google.com, scraper and parse the search results in a json
    - Store the position of amazon.com across all these keywords in JSON with the exact URL
  
 
-# Test 4 - Emulate location in Google 
+# Test 4 - Basic web scraping with pagination
 
    - Open this page - https://www.guestpostengine.com/search?q=health
    - Take the Domain name (Class kt-widget__username), Domain Authority, Global Rank & Traffic data
